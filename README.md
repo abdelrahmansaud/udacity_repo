@@ -1,10 +1,23 @@
 # udacity_repo
 Part of ND content related to git and Github.
 
-add: adds file to be tracked, to staging
 
-commit: commits file to repository
+    git add - add any new or modified files to the index
+    
+    git commit -m - a new commit containing the current contents of the index and the given log message describing the changes
+    
+    git push - frequently used to move local code to the cloud version of the repository
+    
+    git checkout -b - create and move to a new branch
+    
+    git checkout - used to move across branches that have already been created
+    
+    git branch - lists all branches
+    
+    git status - lists the status of the files that are updated or new
+    
+    git pull - pull updates from Github (remote) to local
+    
+    git branch -d deletes local branch
 
-push: pushes changes to github
 
-status: gets status of repository, untracked files, files in staging, how far are we from headline
